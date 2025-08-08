@@ -1,2 +1,2 @@
-# Gap Reproject - Finished Model
+# Reproject - Finished Model Gap
 Due to the GitHub limitation on uploading files, the middle step between reprojecting data and until the finished model is not uploaded (it consists of warping data to match resolution, then reclasifying it to be able to mathematically combine a layer measured in meters (Elevation, Distance) with a layer measured in degrees (Slope)). Reclassifying them puts them all into the same unitless system, allowing us to merge them in the weighted overlay model.
