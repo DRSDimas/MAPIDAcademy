@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "reproject_Critical_infrastructure",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32657" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Type": "Hydro power plant" }, "geometry": { "type": "Point", "coordinates": [ 294619.083388241648208, 5616630.96042874455452 ] } },
+{ "type": "Feature", "properties": { "id": null, "Type": "Hydro power plant" }, "geometry": { "type": "Point", "coordinates": [ 294696.806969220866449, 5616443.903651777654886 ] } },
+{ "type": "Feature", "properties": { "id": null, "Type": "Hospital" }, "geometry": { "type": "Point", "coordinates": [ 295626.096156130777672, 5616462.541592611931264 ] } },
+{ "type": "Feature", "properties": { "id": null, "Type": "Fire station" }, "geometry": { "type": "Point", "coordinates": [ 295920.977562449872494, 5616418.927702290005982 ] } },
+{ "type": "Feature", "properties": { "id": null, "Type": "School" }, "geometry": { "type": "Point", "coordinates": [ 295790.847012504877057, 5616707.459065607748926 ] } },
+{ "type": "Feature", "properties": { "id": null, "Type": "Fire station" }, "geometry": { "type": "Point", "coordinates": [ 295872.352926040242892, 5616881.39082332700491 ] } },
+{ "type": "Feature", "properties": { "id": null, "Type": "School" }, "geometry": { "type": "Point", "coordinates": [ 296111.288204439566471, 5617010.203417528420687 ] } },
+{ "type": "Feature", "properties": { "id": null, "Type": "Aerodrome" }, "geometry": { "type": "Point", "coordinates": [ 296631.990822542808019, 5617138.755875342525542 ] } },
+{ "type": "Feature", "properties": { "id": null, "Type": "Port" }, "geometry": { "type": "Point", "coordinates": [ 297952.261193554382771, 5617873.280127236619592 ] } }
+]
+}
