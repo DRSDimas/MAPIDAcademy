@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "Critical_infrastructure",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Type": "Hydro power plant" }, "geometry": { "type": "Point", "coordinates": [ 156.093695193054828, 50.665250176627026 ] } },
+{ "type": "Feature", "properties": { "id": null, "Type": "Hydro power plant" }, "geometry": { "type": "Point", "coordinates": [ 156.094897289917299, 50.66359754150124 ] } },
+{ "type": "Feature", "properties": { "id": null, "Type": "Hospital" }, "geometry": { "type": "Point", "coordinates": [ 156.108018826952957, 50.664091793616684 ] } },
+{ "type": "Feature", "properties": { "id": null, "Type": "Fire Station" }, "geometry": { "type": "Point", "coordinates": [ 156.112209921419407, 50.6638034805149 ] } },
+{ "type": "Feature", "properties": { "id": null, "Type": "School" }, "geometry": { "type": "Point", "coordinates": [ 156.111024069108993, 50.666637624440931 ] } },
+{ "type": "Feature", "properties": { "id": null, "Type": "Fire station" }, "geometry": { "type": "Point", "coordinates": [ 156.110682933512891, 50.66738410073544 ] } },
+{ "type": "Feature", "properties": { "id": null, "Type": "School" }, "geometry": { "type": "Point", "coordinates": [ 156.114573503763665, 50.669180743294895 ] } },
+{ "type": "Feature", "properties": { "id": null, "Type": "Aerodrome" }, "geometry": { "type": "Point", "coordinates": [ 156.121861892848443, 50.670517455663195 ] } },
+{ "type": "Feature", "properties": { "id": null, "Type": "Port" }, "geometry": { "type": "Point", "coordinates": [ 156.140120769515931, 50.677574460089971 ] } }
+]
+}
