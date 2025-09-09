@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-s1sea: #000902; 
+  --color-s1wetlands: #011B1B; 
+  --color-s1buildings: #0E936B; 
+  --color-s1interference: #CAD2DE; 
+  --color-s1leeward: #A05ECB; 
+  --color-s1farmlands: #002661; 
+}
