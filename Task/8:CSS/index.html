@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/images/Satellite_emoji.svg"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="/src/style.css" rel="stylesheet">
+    <title>DRSDimas</title>
+  </head>
+  <body>
+    <video autoplay muted loop playsinline class="fixed inset-0 w-screen h-full object-cover -z-10">
+      <source src="/video/Sentinel-1.mp4" type="video/mp4">
+    </video>
+    <div class="fixed inset-0 w-screen h-full bg-s1sea opacity-75 -z-10"></div>
+    
+    <nav id="navbar" class="w-20 p-4 absolute top-0 left-0 bottom-0 flex flex-col items-center justify-center space-y-4 z-20">
+      <a href="#" class="nav-item home-tab p-4 bg-s1interference rounded-full transition-colors duration-200 hover:bg-s1buildings">
+        <span id="home-icon"></span>
+      </a>
+      <a href="#" class="nav-item portfolio-tab p-4 bg-s1interference rounded-full transition-colors duration-200 hover:bg-s1buildings">
+        <span id="portfolio-icon"></span>
+      </a>
+      <a href="#" class="nav-item education-tab p-4 bg-s1interference rounded-full transition-colors duration-200 hover:bg-s1buildings">
+        <span id="education-icon"></span>
+      </a>
+    </nav>
+
+    <div id="content" class="absolute inset-0 overflow-y-auto">
+      </div>
+      
+    <script type="module" src="src/main.js"></script>
+  </body>
+</html>
